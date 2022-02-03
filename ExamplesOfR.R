@@ -1,3 +1,7 @@
+
+#my play file
+
+
 # ExamplesOfR.R
 # Accompanies the book,
 # Kruschke, J. K. (2014). Doing Bayesian Data Analysis: 
